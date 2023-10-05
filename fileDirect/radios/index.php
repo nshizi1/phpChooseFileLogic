@@ -11,7 +11,7 @@
         <label for="learner">Learner</label><br>
         <input type="radio" name="choose" value="leader" id="leader">
         <label for="leader">Leader</label><br>
-        <input type="submit" value="Next">
+        <button type="submit">Next</button>
     </form>
 </body>
 </html>
